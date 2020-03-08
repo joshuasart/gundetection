@@ -9,3 +9,6 @@ converted_savedmodel.zip
 Applications:
 To track guns and other weapons.
 This model can be further used to notify personel  if a weapon is  drawn in a public place.
+
+#gundetection.gif 
+shows how it works
